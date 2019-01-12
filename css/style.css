@@ -6,21 +6,20 @@ body {
 	font-size: 14px;
 	line-height: 24px;
 	font-weight: 700;
-	color: white;
+	color: black;
 	text-transform: uppercase;
 	
-	/**background-color: #000000;**/
-	background-image: url("../img/bg.jpg");
+	background-color: #eaeaff;
+	background-image: url("../img/bg.png");
 	background-position: top center;
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-size: 500px;
+	background-repeat: repeat;
 }
 
 .main-navigation{
 	font-size: 16px;
 	line-height: 20px;
 	color: #ffffff;
-	
 	background-color: black;
 }
 
