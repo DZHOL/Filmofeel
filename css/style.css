@@ -32,7 +32,8 @@ body {
 .site-navigation a:focus,
 .user-navigation a:hover,
 .user-navigation a:focus {
-	background-color: #242424
+	color: yellow;
+	background-color: #242424;
 }
 
 img[alt="random-film"] {
